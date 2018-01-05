@@ -6,3 +6,4 @@ Creating a new branch is quick and simple
 changge it 
 i am the king 
 a new dev appeared
+i change the readme.txt
